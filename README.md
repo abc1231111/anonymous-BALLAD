@@ -1,2 +1,2 @@
 # anonymous-BALLAD
-This is the anonymous version of BALLAD for review.
+This is the anonymous code version of *A Simple Long-Tailed Recognition Baseline via Vision-Language Model* for CVPR2022 review.
