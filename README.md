@@ -11,9 +11,22 @@ This is the anonymous code version of *A Simple Long-Tailed Recognition Baseline
 ## Datasets
 * ImageNet_LT
 * Places_LT
+Download the [ImageNet_2014](http://image-net.org/index) and [Places_365](http://places2.csail.mit.edu/download.html).
+Modify the data_root in main.py to refer to your own dataset path.
 
 ## Training
 
-### Phase A
+#### Phase A
+```
+python main.py --cfg ./config/ImageNet_LT/clip_A_rn50.yaml
+```
 
-### Phase B
+#### Phase B
+```
+python main.py --cfg ./config/ImageNet_LT/clip_B_rn50.yaml
+```
+
+## Testing
+```
+python main.py --cfg ./config/ImageNet_LT/test.yaml --test
+```
