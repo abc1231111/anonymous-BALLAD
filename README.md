@@ -32,3 +32,7 @@ python main.py --cfg ./config/ImageNet_LT/clip_B_rn50.yaml
 ```
 python main.py --cfg ./config/ImageNet_LT/test.yaml --test
 ```
+
+## Acknowledgements
+
+The codes is based on [https://github.com/zhmiao/OpenLongTailRecognition-OLTR](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) and motivated by [https://github.com/facebookresearch/classifier-balancing](https://github.com/facebookresearch/classifier-balancing).
