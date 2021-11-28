@@ -14,7 +14,7 @@ This is the anonymous code version of *A Simple Long-Tailed Recognition Baseline
 
 Download the [ImageNet_2014](http://image-net.org/index) and [Places_365](http://places2.csail.mit.edu/download.html).
 
-Modify the data_root in main.py to refer to your own dataset path.
+Modify the data_root in [main.py](main.py) to refer to your own dataset path.
 
 ## Training
 
