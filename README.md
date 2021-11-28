@@ -3,16 +3,17 @@ This is the anonymous code version of *A Simple Long-Tailed Recognition Baseline
 
 ![image](https://github.com/abc1231111/anonymous-BALLAD/blob/main/figure.PNG)
 
-##Requirements
+## Requirements
 * Python3
 * Pytorch(1.7.1 recommended)
 * yaml
 
-##Datasets
+## Datasets
 * ImageNet_LT
 * Places_LT
 
-##Training
-###Phase A
+## Training
 
-###Phase B
+### Phase A
+
+### Phase B
